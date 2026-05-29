@@ -2,7 +2,7 @@ name: ETF Momentum Push
 
 on:
   schedule:
-    - cron: "20 7 * * 1-5"
+    - cron: "35 7 * * 1-5"
   workflow_dispatch:
 
 permissions:
